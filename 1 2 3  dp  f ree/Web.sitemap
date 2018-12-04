@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode title="Home"  url="~/Default.aspx" description="Home">
+        <siteMapNode title="About" url="~/About.aspx" description="About 123dpfree" />
+       <siteMapNode title="Tutorials" url="~/Tutorials_MainPage.aspx"  description="Tutorials MainPage" />
+      <siteMapNode title="Programming"  url="~/Programming_Tutorials.aspx" description="Contact Us">
+      <siteMapNode title="Programming Tutorials"  url="~/Programming_Tutorials.aspx" description="Programming Tutorials">
+      <siteMapNode title="Web Graphic Designing"  url="~/W-G-Designing_Tutorials.aspx" description="Web Graphic Designing Tutorials">
+      <siteMapNode title="Contact"  url="~/Contact.aspx" description="Contact Us">
+        <siteMapNode title="References"  url="~/References.aspx" description="References">
+    </siteMapNode>
+</siteMap>
+

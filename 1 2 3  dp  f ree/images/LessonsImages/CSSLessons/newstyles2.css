@@ -1,0 +1,81 @@
+DIV.contenth {
+	Z-INDEX: 2; POSITION: absolute; TEXT-ALIGN: justify; MARGIN: 10em 0px 0px 15em; WIDTH: 75%; FLOAT: right; COLOR: #006633
+}
+DIV.content {
+	Z-INDEX: 2; POSITION: absolute; TEXT-ALIGN: justify; MARGIN: 8em 0px 0px 5em; WIDTH: 85%
+}
+DIV.header {
+	Z-INDEX: 3; POSITION: absolute; TEXT-ALIGN: justify; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #ffffff; MARGIN: 0px 0px 0px 5em; PADDING-LEFT: 0px; WIDTH: 85%; PADDING-RIGHT: 0px; HEIGHT: 30px; PADDING-TOP: 0px
+}
+DIV.headerh {
+	Z-INDEX: 3; POSITION: absolute; TEXT-ALIGN: center; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: white; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; HEIGHT: 247px; PADDING-TOP: 0px
+}
+DIV.navigation {
+	Z-INDEX: 2; POSITION: absolute; TEXT-ALIGN: right; BACKGROUND-COLOR: #ffffff; MARGIN: 7em 0px 0px 5em; WIDTH: 85%; FONT-FAMILY: Verdana,Arial; HEIGHT: 4em; FONT-SIZE: 12pt
+}
+DIV.base {
+	FONT-FAMILY: Verdana,Arial; COLOR: black; FONT-SIZE: 10pt
+}
+DIV.leftbox {
+	Z-INDEX: 1; POSITION: absolute; TEXT-ALIGN: center; MARGIN: 15em 0px 0px; WIDTH: 15%; FLOAT: left; HEIGHT: 25em; COLOR: #339966; FONT-SIZE: 10pt
+}
+DIV.leftboxh {
+	Z-INDEX: 1; POSITION: absolute; TEXT-ALIGN: center; BACKGROUND-COLOR: white; MARGIN: 10em 0px 0px; WIDTH: 15%; FLOAT: left; COLOR: #006666; FONT-SIZE: 10pt
+}
+DIV.search {
+	Z-INDEX: 2; POSITION: absolute; MARGIN: 13em 0em 0em 18em; WIDTH: 50%; HEIGHT: 3em
+}
+DIV.footer {
+	Z-INDEX: 1; POSITION: absolute; TEXT-ALIGN: center; MARGIN: 5em 0px 10px 20em; FONT-FAMILY: Verdana,Arial; FONT-SIZE: 8pt
+}
+DIV.footerh {
+	Z-INDEX: 1; POSITION: relative; TEXT-ALIGN: center; MARGIN: 15em 0px 10px 2em; FONT-FAMILY: Verdana,Arial; FONT-SIZE: 8pt
+}
+.head1 {
+	TEXT-ALIGN: center; FONT-FAMILY: Verdana,Arial; COLOR: #006666; FONT-SIZE: 14pt; FONT-WEIGHT: bold
+}
+.title1 {
+	TEXT-ALIGN: center; FONT-FAMILY: Verdana,Arial; COLOR: #003333; FONT-SIZE: 14pt; FONT-WEIGHT: bold
+}
+.title2 {
+	MARGIN: 3em 0em 1em; FONT-FAMILY: Verdana,Arial; FONT-SIZE: 14pt; FONT-WEIGHT: bold
+}
+.quote1 {
+	TEXT-ALIGN: justify; FONT-FAMILY: Verdana,Arial; COLOR: red; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 72pt
+}
+.image1 {
+	BORDER-BOTTOM-COLOR: silver; TEXT-ALIGN: center; PADDING-BOTTOM: 2px; BORDER-RIGHT-WIDTH: 3px; BACKGROUND-COLOR: silver; BORDER-TOP-COLOR: silver; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BORDER-TOP-WIDTH: 3px; BORDER-BOTTOM-WIDTH: 3px; BORDER-RIGHT-COLOR: silver; BORDER-LEFT-COLOR: silver; BORDER-LEFT-WIDTH: 3px; PADDING-TOP: 2px
+}
+.para1 {
+	TEXT-ALIGN: justify; FONT-FAMILY: Verdana,Arial; COLOR: black; MARGIN-LEFT: 36pt; FONT-SIZE: 10pt; MARGIN-RIGHT: 2pt
+}
+.para2 {
+	MARGIN: 0em 2em 1em 5em; FONT-FAMILY: Verdana,Arial; COLOR: black; FONT-SIZE: 10pt
+}
+.para6 {
+	TEXT-ALIGN: center; FONT-FAMILY: Verdana,Arial; COLOR: black; MARGIN-LEFT: 3%; FONT-SIZE: 10pt; MARGIN-RIGHT: 3%
+}
+A:link {
+	COLOR: #0000ff; FONT-WEIGHT: bold
+}
+A:visited {
+	COLOR: #cc00cc; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #6699ff; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #6699ff; TEXT-DECORATION: underline
+}
+H1 {
+	TEXT-ALIGN: center; MARGIN: 3em 0em 0em; FONT-FAMILY: Verdana,Arial; FONT-SIZE: 16pt; FONT-WEIGHT: bold
+}
+H2 {
+	MARGIN: 1em 0em; FONT-FAMILY: Verdana,Arial; FONT-SIZE: 14pt; FONT-WEIGHT: bold
+}
+H3 {
+	MARGIN: 3em 0em 1em; FONT-FAMILY: Verdana,Arial; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.img1 {
+	BORDER-BOTTOM: silver 5px groove; TEXT-ALIGN: center; BORDER-LEFT: silver 5px groove; BACKGROUND-COLOR: white; MARGIN: 0em 0em 0em 10em; WIDTH: 600px; HEIGHT: 235px; BORDER-TOP: silver 5px groove; BORDER-RIGHT: silver 5px groove
+}
